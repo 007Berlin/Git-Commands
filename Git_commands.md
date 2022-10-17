@@ -38,5 +38,17 @@ c) switch branch - To switch from the new branch and move to the main branch.
 
 d) delete branch - To delete a branch from the git repo.
 
+### 7. remote -
+
+a) git remote add origin - To link the git repository in which user wants to push their local code. It helps in creating connections with other repositories.
+
+b) git remote -v - To list the remote connection user has to other repositories.
+
+### 8. push - To push the branch or to push the changes in the branch to the GitHub repo.
+
+### 9. log - To display all the commits in a repository's history.
+
+### 10. merge - To merge the current branch into the specified branch (main).
+
 
 
