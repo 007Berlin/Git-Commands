@@ -50,5 +50,5 @@ b) git remote -v - To list the remote connection user has to other repositories.
 
 ### 10. merge - To merge the current branch into the specified branch (main).
 
-
+NOTE - we are on the developer1 branch so to merge we have to checkout in the main branch than only we are able to merge onto main.
 
