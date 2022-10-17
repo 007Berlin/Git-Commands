@@ -24,7 +24,7 @@ a) git add filename - To add files to the staging area to track the files.
 
 b) git add . - To add all the files available in the repository.
 
-### 5. commit - To capture a snapshot of the project's currently staged changes.
+### 5. commit - To capture a snapshot of the project's currently staged changes (Its like clt+s)
 
 ### 6. branch -
 
@@ -52,3 +52,12 @@ b) git remote -v - To list the remote connection user has to other repositories.
 
 NOTE - we are on the developer1 branch so to merge we have to checkout in the main branch than only we are able to merge onto main.
 
+### 11. restore - To unstage or even discard uncommitted local changes.
+
+### 12. reset - To undo the recent changes that are to be committed.
+
+### 13. stash - To take your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
+
+### 14. clone - To point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+
+### 15. pull - To pull the new changes from git repository to local machine.
