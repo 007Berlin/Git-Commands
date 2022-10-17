@@ -7,6 +7,8 @@ Git is a version control system used for tracking changes in computer files. It 
    * It allows multiple developers to work together.
    * It supports non-linear development through its thousands of parallel branches.
 
+        ![image](https://user-images.githubusercontent.com/89749940/196074948-70103597-b807-4af5-ad17-76cc5b18da1a.png)
+
 ### 1. init - It creates an empty Git repository.
 ```
 Example:- git init
