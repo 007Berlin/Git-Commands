@@ -124,13 +124,31 @@ NOTE - we are on the developer1 branch so to merge we have to checkout in the ma
 ![10(Note)  git merge](https://user-images.githubusercontent.com/89749940/196074361-1fa1a104-62be-47fd-b543-904b2cb6e398.png)
 
 ### 11. restore - To unstage or even discard uncommitted local changes.
+```
+Example:- git restore <filename>
+```
+![11  git restore filename](https://user-images.githubusercontent.com/89749940/196247538-513f7616-7678-4288-9cf9-b37313e73967.png)
 
 ### 12. reset - To undo the recent changes that are to be committed.
+```
+Example:- git reset
+```
+![12  git reset](https://user-images.githubusercontent.com/89749940/196247583-bcf9cf02-ccf8-4799-af5a-dfa3bcbd0d1f.png)
 
 ### 13. stash - To take your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
+```
+Example:- git stash
+```
+![13  git stash](https://user-images.githubusercontent.com/89749940/196247620-3e3758c1-307d-44b2-99d4-ae6b90f24c18.png)
 
 ### 14. clone - To point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+```
+Example:- git clone <git repo url>
+```
+![14  git clone](https://user-images.githubusercontent.com/89749940/196247667-e94e8284-f0b3-49a6-a306-85e96df2430d.png)
 
 ### 15. pull - To pull the new changes from git repository to local machine.
-
-### 16.
+```
+Example:- git pull
+```
+![15  git pull](https://user-images.githubusercontent.com/89749940/196247712-fbd58c82-9570-4eed-a11d-dc9a093bd900.png)
